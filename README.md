@@ -1,5 +1,5 @@
-# cpp_training
-A couple exercices for my CPP course.
+# C++ Training
+A couple exercices for my C++ course.
 
 Week 1:
   - Exercices:
