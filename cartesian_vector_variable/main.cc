@@ -13,28 +13,28 @@ void testInit()
     std::cout << u << '\n';
     }
 
-    // {
-    // auto u = Vector{1};
-    // std::cout << u << '\n';
-    // }
+    {
+    auto u = Vector{1};
+    std::cout << u << '\n';
+    }
 
 
-    // {
-    // auto u = Vector(5);
-    // std::cout << u << '\n';
-    // }
+    {
+    auto u = Vector(5);
+    std::cout << u << '\n';
+    }
 
-    // {
-    // auto u = Vector{1,2,3,4,5};
-    // std::cout << u << '\n';
-    // }
+    {
+    auto u = Vector{1,2,3,4,5};
+    std::cout << u << '\n';
+    }
 
-    // {
-    // auto u = Vector{1};
-    // std::cout << u << '\n';
-    // u = Vector{1,2,3,4,5};
-    // std::cout << u << '\n';
-    // }
+    {
+    auto u = Vector{1};
+    std::cout << u << '\n';
+    u = Vector{1,2,3,4,5};
+    std::cout << u << '\n';
+    }
 
 }
 
